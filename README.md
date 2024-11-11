@@ -68,18 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/f77a1cbd-f9e6-4a33-bb54-e0d5080ea4c0)
+![image](https://github.com/user-attachments/assets/95398b7b-7102-4d88-bd0f-1b5060984834)
 
-Currently, two official plugins are available:
-#SignUp Screen
-![image](https://github.com/user-attachments/assets/8eee8c40-294d-4066-9963-7c1208cbc8e8)
-#Login Screen
-![image](https://github.com/user-attachments/assets/817fb759-7c75-4a23-bf1c-97f671f7b79c)
-#createBlog Screen
-![image](https://github.com/user-attachments/assets/c9f4d007-5202-49b4-9629-d9d48b50673b)
+![image](https://github.com/user-attachments/assets/a60bea1a-65e1-4072-84fb-cda9c88e286d)
 
-#Rivew Screen
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/df7d0910-8587-4762-acfa-9c16c2f5c35f)
+
+![image](https://github.com/user-attachments/assets/1009780e-7854-4d28-9aae-9a8973a51633)
+
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
